@@ -1,0 +1,9 @@
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.csproj.AssemblyReference.cache
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.csproj.CoreCompileInputs.cache
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Release\POE.exe.config
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Release\POE.exe
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Release\POE.pdb
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.exe
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.pdb
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.csproj.Up2Date

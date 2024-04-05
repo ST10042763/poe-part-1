@@ -1,0 +1,10 @@
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Debug\POE.exe.config
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Debug\POE.exe
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Debug\POE.pdb
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Debug\POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Debug\POE.exe
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Debug\POE.pdb
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Debug\POE.csproj.CopyComplete
